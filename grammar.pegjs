@@ -1,7 +1,7 @@
 /**
  * Structal Script Grammar
  *
- * This grammar is in from of peg, specifically parseable by pegjs (https://pegjs.org)
+ * This grammar is in form of peg, specifically parseable by pegjs (https://pegjs.org)
  *
  * Jian Li
  */
